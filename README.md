@@ -8,3 +8,8 @@ Technologies used:
 - Mongo DB
 - Node
 - Mongoose
+
+Screenshot of deployed site:
+![Screenshot of fitness tracker](./assets/fitness1.jpg)
+
+Site deployed on heroku at: https://dashboard.heroku.com/apps/dabestfitness
